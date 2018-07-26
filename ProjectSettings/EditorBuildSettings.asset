@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Plugins/Unity-Technologies-unity-arkit-plugin/Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene.unity
+    guid: c159f2591a9b5c843b0a0442451f78f8
+  - enabled: 1
+    path: Assets/Scenes/Height.unity
+    guid: 465f7737488e744068ac4fc8229a580e
   m_configObjects: {}
