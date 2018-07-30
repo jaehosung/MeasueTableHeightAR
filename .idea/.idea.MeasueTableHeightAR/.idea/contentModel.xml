@@ -177,6 +177,7 @@
             <e p="TUTORIAL.txt" t="Include" />
           </e>
         </e>
+        <e p="PositionData.cs" t="Include" />
         <e p="Scenes" t="Include">
           <e p="_UnityARHitTestExample.cs" t="Include" />
         </e>
